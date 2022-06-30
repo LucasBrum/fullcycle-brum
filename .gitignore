@@ -71,3 +71,4 @@ fc3-admin-do-catalogo/infrastructure/build/test-results/test/binary/results.bin
 fc3-admin-do-catalogo/infrastructure/build/test-results/test/TEST-com.fullcycle.admin.catalogo.infrastructure.MainTest.xml
 fc3-admin-do-catalogo/infrastructure/build/tmp/compileJava/previous-compilation-data.bin
 fc3-admin-do-catalogo/infrastructure/build/tmp/compileTestJava/previous-compilation-data.bin
+*.bin
