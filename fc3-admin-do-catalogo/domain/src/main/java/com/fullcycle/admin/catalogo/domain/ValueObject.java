@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class ValueObject {
+package com.fullcycle.admin.catalogo.domain;
+
+public abstract class ValueObject {
 }

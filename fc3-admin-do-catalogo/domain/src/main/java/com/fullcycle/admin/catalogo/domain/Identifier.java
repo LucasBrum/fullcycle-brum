@@ -1,2 +1,4 @@
-package com.fullcycle.admin.catalogo.domain;public class Identifier {
+package com.fullcycle.admin.catalogo.domain;
+
+public class Identifier {
 }

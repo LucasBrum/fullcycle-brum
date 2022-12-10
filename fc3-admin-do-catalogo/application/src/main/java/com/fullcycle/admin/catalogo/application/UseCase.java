@@ -5,6 +5,9 @@ import com.fullcycle.admin.catalogo.domain.category.Category;
 public class UseCase {
 
     public Category execute() {
-        return new Category();
+		final var expectedName = "Filmes";
+		final var expectedDescription = "A categoria mais assistida";
+		final var expectedIsActive = true;
+        return Category.newCategory(expectedName, expectedDescription, expectedIsActive);
     }
 }
